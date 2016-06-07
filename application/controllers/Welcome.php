@@ -22,6 +22,6 @@ class Welcome extends CI_Controller
     public function index()
     {
         $this->load->view('welcome_message');
-        echo"hello123456";
+        echo"hello12345678999";
     }
 }
